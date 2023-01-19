@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-bs-common",
+  "version": "1.0.0",
+  "description": "Set of eslint rules",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bergx2/eslint-config-bs-common.git"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-prettier": "^6.9.0",
+    "eslint-import-resolver-alias": "^1.1.2",
+    "eslint-plugin-import": "^2.22.1"
+  },
+  "author": "Denis Rybalka <denis@bergx2.de>",
+  "license": "ISC"
+}
