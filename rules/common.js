@@ -10,6 +10,8 @@ module.exports = {
     'no-use-before-define': 'off',
     'no-shadow': 'off',
     'no-unused-vars': 'off',
+    curly: ['error', 'all'],
+    'consistent-return': 'error',
     'no-restricted-imports': [
       'error',
       {
