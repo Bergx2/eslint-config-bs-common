@@ -19,6 +19,12 @@ Simple set of rules to improve your javascript codebase and make it more consist
 ### Installing
 
 * Add it as a dependecy into your package.json file `"eslint-config-bs-common": "git://github.com/Bergx2/eslint-config-bs-common#d096fe4"`
+* Add it to your .eslintrc file in "extends" array
+```
+"extends": [
+  "eslint-config-bs-common"
+]
+```
 
 ## Version History
 
