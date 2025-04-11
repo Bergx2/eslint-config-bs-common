@@ -19,5 +19,8 @@ module.exports = {
         patterns: ['!lodash/*'],
       },
     ],
+    'arrow-body-style': 'off',
+    'no-unsafe-optional-chaining': 'off',
+    'default-param-last': 'off',
   },
 };
