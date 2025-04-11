@@ -12,8 +12,7 @@
     "eslint-config-airbnb": "^18.0.1",
     "eslint-config-prettier": "^6.9.0",
     "eslint-import-resolver-alias": "^1.1.2",
-    "eslint-plugin-import": "^2.22.1",
-    "eslint-plugin-jsx-a11y": "^6.7.1"
+    "eslint-plugin-import": "^2.31.0"
   },
   "author": "Denis Rybalka <denis@bergx2.de>",
   "license": "ISC"
